@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ernivani
 - 👀 I’m interested in developpements
-- 🌱 I’m currently learning cpp/java and Kotlin
+- 🌱 I’m working hard on js React frontend and websocket on backend
 - 💞️ I’m looking to collaborate on everything
-- 😀 I'm actually working for a mobile app who help electric car owner to know where is the best pace to charge the car
-- 📫 How to reach me : ernicani#1000 on discord or ernicani1@gmail.com
+- 😀 I'm actually working for Impin
+- 📫 You can reach me on contact@impin.fr 
 
 
 
