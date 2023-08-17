@@ -11,6 +11,7 @@
 Check out my latest project:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ernivani&repo=streaming-video-next.js&show_owner=true&theme=radical)](https://github.com/ernivani/streaming-video-next.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ernivani&repo=ai-python-snakeGame&show owner=true&theme=radical)](https://github.com/ernivani/ai-python-snakeGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ernivani&repo=sdl-game&show_owner=true&theme=radical)](https://github.com/ernivani/sdl-game)
 
 ## Top Languages
