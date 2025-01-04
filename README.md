@@ -25,6 +25,10 @@ Here are the top languages I frequently use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernivani&layout=compact&theme=radical)](https://github.com/ernivani)
 
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernivani&layout=compact&theme=radical)](https://github.com/ernivani)
+
 ## Wakatime Stats
 
 Here are my coding activity stats tracked by Wakatime:
@@ -41,3 +45,5 @@ Here are my LeetCode stats:
 
 Feel free to reach out to me at **t.lindeker@impin.fr** for any collaboration or inquiries.  
 I'm excited to connect with fellow developers and work together on amazing projects!
+
+![ViewCount](https://views.whatilearened.today/views/github/ernivani/ernivani.svg)
